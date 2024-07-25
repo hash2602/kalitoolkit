@@ -53,8 +53,4 @@ When the script runs, you can perform your tasks by selecting one of the categor
 
 ## Contributing
 
-If you would like to contribute, please submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. For more information, see the `LICENSE` file.
+If you would like to contribute, please send a message on my discord: hash2602
