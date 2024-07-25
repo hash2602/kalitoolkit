@@ -21,7 +21,7 @@ show_categories() {
     echo "{8} Exploitation Tools"
     echo "{9} Sniffing & Spoofing"
     echo "{10} Post Exploitation"
-    echo "{99} Geri dön"
+    echo "{99} ComeBack"
 }
 
 show_tools() {
